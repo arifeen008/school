@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-lg" style="background-color:#25e946;">
     <div class="container-fluid">
         <a class="navbar-brand" href="#">
-            <img src="<?php echo base_url('picture/logo.jpg') ?>" class="me-2" height="50" alt="MDB Logo" loading="lazy" />
+            <img src="<?php echo base_url('picture/logo.jpg') ?>" class="me-2" height="50" alt="Logo" loading="lazy" />
         </a>
         <button class="navbar-toggler" type="button" data-mdb-toggle="collapse" data-mdb-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <i class="fas fa-bars"></i>
