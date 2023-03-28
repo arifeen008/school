@@ -1,11 +1,11 @@
 <div class="container-fluid mt-2">
 	<div class="row">
 		<div class="col-3">
-			<p>text</p>
-			<p>text</p>
-			<p>text</p>
-			<p>text</p>
-			<p>text</p>
+			<p>หัวข้อ</p>
+			<p>หัวข้อ</p>
+			<p>หัวข้อ</p>
+			<p>หัวข้อ</p>
+			<p>หัวข้อ</p>
 			<form>
 				<div class="form-outline mb-4">
 					<input type="email" id="form1Example1" class="form-control" />
